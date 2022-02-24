@@ -1,4 +1,4 @@
-### Olá! Eu sou o Brenno!
+### Olá! Eu sou Brenno Bener!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenno-bener-oliveira-246124162/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenno_bener/)
