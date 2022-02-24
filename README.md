@@ -6,7 +6,7 @@
 
 ![Brenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrennoBener&show_icons=true&theme=merko)
 
-## Minhas Habilidades:
+## Tecnologias que uso:
 <div style="display: inline_block"> <br/> 
   <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" align="center" />
   <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" align="center" />
@@ -15,3 +15,12 @@
   <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" align="center" />
   <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" align="center" />
 </div>
+
+
+
+## Sobre mim:
+Estudo Desenvolvimento WEB na Trybe. <br>
+Venho praticando Inglês e Polonês. <br>
+Ingês: Mediano / Avançaco. <br>
+Polonês: iniciante. <br>
+Também estudo pelo freeCodeCamp.
