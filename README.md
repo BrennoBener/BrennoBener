@@ -19,7 +19,7 @@
 
 
 ## Sobre mim:
-Estudo Desenvolvimento WEB na Trybe. <br>
+Estudo Desenvolvimento WEB. <br>
 Venho praticando Inglês e Polonês. <br>
 Ingês: Mediano / Avançaco. <br>
 Polonês: iniciante. <br>
