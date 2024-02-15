@@ -21,6 +21,6 @@
 ## Sobre mim:
 Estudo Desenvolvimento WEB. <br>
 Venho praticando Inglês e Polonês. <br>
-Ingês: Mediano / Avançaco. <br>
+Ingês: Mediano / Avançado. <br>
 Polonês: iniciante. <br>
 Também estudo pelo freeCodeCamp.
