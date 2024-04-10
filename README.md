@@ -9,8 +9,14 @@
 
 
 ## Sobre mim:
-Estudo Desenvolvimento WEB. <br>
+Estudo Analise e Desenvolvimento de Sistemas. <br>
+Mas também me aventuro em Ciencias da Computação, Matematica e 
+coisas que envolvam estudo de tecnologias. <br>
 Venho praticando Inglês e Polonês. <br>
 Ingês: Mediano / Avançado. <br>
 Polonês: iniciante. <br>
-Também estudo pelo freeCodeCamp.
+
+Algumas das tecnologias que tenho familiaridade:
+Git, Github, C/C++/C#, javaScript, Python, NodeJS
+Linux, Windows 
+Entre outras.
