@@ -1,6 +1,6 @@
 # Brenno Bener -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brennobener/?locale=en_US/)
 
-Estudando Analise e Desenvolvimento de Sistemas, interessado em inteligência artificial e nuvem.
+Estudante de Engenharia de Software.
 
 
 ## Linguagens: 
